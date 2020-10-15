@@ -1,2 +1,6 @@
-# React-Color_Converter_Previewer
-Created with CodeSandbox
+# Color Converter & Previewer
+Convert an array or multiple arrays of rgb colors to hex format
+
+## View the [Demo](https://csb-8tpf6-ylmk44wxb.vercel.app/)
+
+
